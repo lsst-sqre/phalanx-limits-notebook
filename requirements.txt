@@ -1,0 +1,4 @@
+humanfriendly
+influxdb-client
+ipykernel
+
